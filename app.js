@@ -134,4 +134,4 @@ getDoc().then(async doc => {
 
 })
 
-app.listen(process.env.$PORT)
+app.listen(process.env.PORT)
